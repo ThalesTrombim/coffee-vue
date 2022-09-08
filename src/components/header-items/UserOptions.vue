@@ -20,5 +20,10 @@ ul {
 }
 .user-options-icons {
   width: 22px;
+  cursor: pointer;
+}
+.user-options-icons:hover{
+  transform: scale(1.1);
+  filter: invert(50%);
 }
 </style>e
