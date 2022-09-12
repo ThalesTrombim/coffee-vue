@@ -4,6 +4,7 @@
     <the-hero></the-hero>
     <main>
       <collection-area></collection-area>
+      <capsules-coffees></capsules-coffees>
     </main>
   </div>
 </template>
@@ -28,5 +29,9 @@ export default {
   box-sizing: border-box;
   color: #161616;
   font-family: 'Montserrat', sans-serif;
+}
+main {
+  max-width: 1140px;
+  margin: auto;
 }
 </style>

@@ -26,7 +26,8 @@ export default {
 .collection {
   display: flex;  
   gap: 48px;
-  max-width: 80%;
+  max-width: 1140px;
+  padding: 0 36px;
   margin: auto;
 }
 .collection-text {
