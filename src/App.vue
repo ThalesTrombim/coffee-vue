@@ -2,6 +2,9 @@
   <div id="app">
     <TheHeader msg="Welcome to Your Vue.js App"/>
     <the-hero></the-hero>
+    <main>
+      <collection-area></collection-area>
+    </main>
   </div>
 </template>
 
